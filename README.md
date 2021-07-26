@@ -2,7 +2,7 @@
 ## Project title: 
 Eye
 ## Description: 
-This project is setup to have 2 eyes on the web interface. When the mouse moves onto the web interface the eyes would follow the mouse movement. The eyes move in real time over the web interface as fast as your mouse can move. Try moving out of theh web interface and see if the eyes still follow you. 
+This project is setup to have 2 eyes on the web interface. When the mouse moves onto the web interface the eyes would follow the mouse movement. Try to move your mouse as fast as you can. Try moving out of the web interface and see if the eyes still follow you.
 ## How to run:
 1. Eyes tracking tool
 2. Open the index.html starter file on your web browser. 
